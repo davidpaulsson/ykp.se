@@ -56,7 +56,7 @@ export default function Home() {
           !
         </p>
         <p>
-          Jag är {age} år och bor med min man David och våra två barn i
+          Jag är {age} år och bor med min man David och våra tre barn i
           stockholmsförort. Min vardag innefattar mycket kaffe, träning,
           matlagning, trädgård, växter ock såklart familjehäng. Kollar tyvärr på
           orimligt många reality-serier när jag får lite tid över.
